@@ -1,0 +1,1 @@
+# npm init zion-cli projectName   初始化项目
